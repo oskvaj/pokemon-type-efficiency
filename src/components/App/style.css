@@ -1,0 +1,57 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App header {
+  margin: 0px;
+  padding: 32px 0px;
+  width: 100%;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: black;
+  color: white;
+}
+
+.App header h1 {
+  font-size: 40px;
+}
+
+.App select {
+  border: none;
+  padding: 8px;
+}
+
+.App .under-rubrik {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 8px 0px;
+  background: gainsboro;
+  margin-bottom: 32px;
+}
+
+.App .DataTable {
+  margin-bottom: 100px;
+}
+
+.App .current-efficiency {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 75px;
+}
+
+
+.App .current-efficiency .circle {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 99px;
+  margin-right: 10px;
+}

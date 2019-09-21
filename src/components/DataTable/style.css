@@ -1,0 +1,35 @@
+.DataTable table {
+    border-collapse: collapse;
+    overflow: hidden;
+}
+
+.DataTable table, 
+.DataTable table tr th,
+.DataTable table tr td {
+    border: 1px solid rgb(206, 206, 206);
+    padding: 5px;
+}
+
+.DataTable tr:hover {
+  background: rgba(152,152,152,0.2);
+}
+
+.DataTable td, th {
+  position: relative;
+}
+
+.DataTable td:hover::after,
+.DataTable th:hover::after {
+  content: "";
+  position: absolute;
+  background: rgba(152,152,152,0.2);
+  left: 0;
+  top: -5000px;
+  height: 10000px;
+  width: 100%;
+  z-index: -1;
+}
+
+.DataTable th.no-hover {
+  background: white;
+}
