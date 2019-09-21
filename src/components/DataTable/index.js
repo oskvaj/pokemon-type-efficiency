@@ -1,4 +1,5 @@
 import React from 'react';
+import isDarkColor from 'is-dark-color'
 
 import './style.css'
 
@@ -27,9 +28,10 @@ function DataTable(props) {
       <table>
         <tr>
           <th className="no-hover"/>
-          {props.data != null && props.data.headers.map((item) => 
+          {props.data != null && props.data.headers.map((item, i) => 
             <th style={{
-              backgroundColor: item.color
+              backgroundColor: item.color,
+              color: isDarkColor(props.data.headers[i].color) ? "white" : "black"
             }}>
               {item.name}
             </th>
@@ -40,6 +42,7 @@ function DataTable(props) {
           <tr>
             <th style={{
               backgroundColor: props.data.headers[i].color,
+              color: isDarkColor(props.data.headers[i].color) ? "white" : "black"
             }}>
               {props.data.headers[i].name}
             </th>

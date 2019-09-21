@@ -4,11 +4,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -24,7 +24,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -36,7 +36,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -48,7 +48,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -326,11 +326,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -346,7 +346,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -358,7 +358,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -370,7 +370,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -724,11 +724,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -744,7 +744,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -756,7 +756,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -768,7 +768,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -1122,11 +1122,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -1142,7 +1142,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -1154,7 +1154,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -1166,7 +1166,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -1520,11 +1520,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -1540,7 +1540,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -1552,7 +1552,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -1564,7 +1564,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -1918,11 +1918,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -1938,7 +1938,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -1950,7 +1950,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -1962,7 +1962,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
@@ -2357,11 +2357,11 @@ let data = `[
         "headers": [
             {
                 "name": "Normal",
-                "color": "rgb(168, 168, 120)"
+                "color": "#A8A878"
             },
             {
                 "name": "Fire",
-                "color": "rgb(240, 128, 48)"
+                "color": "#F08030"
             },
             {
                 "name": "Water",
@@ -2377,7 +2377,7 @@ let data = `[
             },
             {
                 "name": "Fighting",
-                "color": "rgb(192, 48, 40)"
+                "color": "#C03028"
             },
             {
                 "name": "Poison",
@@ -2389,7 +2389,7 @@ let data = `[
             },
             {
                 "name": "Ground",
-                "color": "rgb(224, 192, 104)"
+                "color": "#E0C068"
             },
             {
                 "name": "Flying",
@@ -2401,7 +2401,7 @@ let data = `[
             },
             {
                 "name": "Bug",
-                "color": "rgb(168, 184, 32)"
+                "color": "#A8B820"
             },
             {
                 "name": "Rock",
