@@ -1,5 +1,3 @@
-Hej alla läsare
-
 import React, { useState, useEffect } from 'react';
 import DataTable from '../DataTable';
 import data from '../../data';
