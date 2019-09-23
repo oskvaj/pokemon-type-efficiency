@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import DataTable from '../DataTable';
 import data from '../../data';
+import pokemon_logo from '../../assets/image/pokemon-logo.png'
 
 import './style.css';
 
@@ -49,6 +50,8 @@ function App() {
 				<p>Vertically is the types in defence</p>
 			</div>
 
+			<img className="logo" src={pokemon_logo}></img>
+
 			<select onChange={
 				(e) => setGen(e.target.value)
 			}>
@@ -60,7 +63,7 @@ function App() {
 				<option value="5">Generation 6</option>
 				<option value="6">Generation 7</option>
 			</select>
-		
+		 
 			<div className="current-efficiency">
 				<div className="circle" style={{
 					backgroundColor: getEfficiencyBackground(currentHover),
