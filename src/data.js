@@ -63,8 +63,8 @@ let data = `[
                 "color": "#7038F8"
             }
         ],
-        "data": [
-            [
+        "data": [ 
+            [ 
                 null,
                 null,
                 null,
