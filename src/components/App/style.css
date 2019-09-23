@@ -64,3 +64,10 @@
   width: 16%;
 
 }
+
+.App .link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}

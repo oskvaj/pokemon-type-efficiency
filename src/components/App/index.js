@@ -50,7 +50,7 @@ function App() {
 				<p>Vertically is the types in defence</p>
 			</div>
 
-			<img className="logo" src={pokemon_logo}></img>
+			<a className="link" href="https://www.smogon.com/dex/sm/formats/ou/" target="_blank"><img className="logo" src={pokemon_logo}></img></a>
 
 			<select onChange={
 				(e) => setGen(e.target.value)
